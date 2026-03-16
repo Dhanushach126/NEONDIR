@@ -5,7 +5,6 @@ import { FilterSidebar } from './components/FilterSidebar';
 import { ToolCard } from './components/ToolCard';
 import { SettingsModal } from './components/SettingsModal';
 import { CompareModal } from './components/CompareModal';
-import { AIConcierge } from './components/AIConcierge';
 import { TagCloud } from './components/TagCloud';
 import { NoteModal } from './components/NoteModal';
 import { SubmitToolModal } from './components/SubmitToolModal';
@@ -342,8 +341,6 @@ export default function App() {
         tool={selectedToolForNotes}
         onSaved={fetchTools}
       />
-
-      <AIConcierge tools={tools} />
     </div>
   );
 }
