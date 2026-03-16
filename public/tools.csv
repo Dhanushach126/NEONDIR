@@ -1,0 +1,13 @@
+id,name,description,url,category,pricing,image_url,tags,created_at
+1,ChatGPT,Advanced AI language model by OpenAI.,https://chat.openai.com,Chat,Freemium,https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg,"ai,chat,assistant",2023-01-01T00:00:00Z
+2,Midjourney,AI image generation from text descriptions.,https://midjourney.com,Image,Paid,,"art,generation,discord",2023-01-02T00:00:00Z
+3,GitHub Copilot,AI-powered code completion tool.,https://github.com/features/copilot,Coding,Paid,,"developer,autocomplete",2023-01-03T00:00:00Z
+4,Runway,AI magic tools for video editing and generation.,https://runwayml.com,Video,Freemium,,"video,editing,generation",2023-01-04T00:00:00Z
+5,ElevenLabs,Realistic AI text-to-speech and voice cloning.,https://elevenlabs.io,Audio,Freemium,,"audio,voice,tts",2023-01-05T00:00:00Z
+6,Jasper,AI copywriter and content generator for teams.,https://jasper.ai,Writing,Paid,,"writing,copywriting,marketing",2023-01-06T00:00:00Z
+7,Claude,Anthropic's helpful and harmless AI assistant.,https://claude.ai,Chat,Freemium,,"ai,chat,anthropic",2023-02-01T00:00:00Z
+8,Stable Diffusion,Open-source image generation model.,https://stability.ai,Image,Free,,"art,open-source,generation",2023-02-02T00:00:00Z
+9,Cursor,The AI-first code editor built for pair programming.,https://cursor.sh,Coding,Freemium,,"developer,editor,ide",2023-02-03T00:00:00Z
+10,Suno,Create original songs from text prompts.,https://suno.com,Audio,Freemium,,"music,generation,audio",2023-02-04T00:00:00Z
+11,Perplexity,AI-powered search engine and research assistant.,https://perplexity.ai,Other,Freemium,,"search,research,assistant",2023-02-05T00:00:00Z
+12,Notion AI,AI writing assistant integrated directly into Notion.,https://notion.so,Writing,Paid,,"writing,productivity,notes",2023-02-06T00:00:00Z
